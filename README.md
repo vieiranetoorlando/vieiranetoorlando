@@ -1,6 +1,6 @@
 ### Olá sou o Orlando Vieira Neto 👋
 
-Sou um profissional graduado em Engenharia da Computação pela Univesp, com ampla experiência em desenvolvimento de software e suporte técnico. Ao longo da minha carreira, destaquei-me na utilização de tecnologias como Node.js, React.js, Flutter,Kotlin, Java, Python, TypeScript, JavaScript,Dart e C#.
+Sou um profissional graduado em Engenharia da Computação pela Univesp, com ampla experiência em desenvolvimento de software e suporte técnico. Ao longo da minha carreira, destaquei-me na utilização de tecnologias como Node.js, React.js, Flutter, Kotlin, Java, Python, TypeScript, JavaScript, Dart e C#.
 
 ##
 
